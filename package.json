@@ -1,0 +1,15 @@
+{
+  "name": "personal-library",
+  "version": "1.0.0",
+  "description": "**FreeCodeCamp**- Information Security and Quality Assurance ------ LIVE: https://fcc-personal-library-app.glitch.me/",
+  "main": "assertion-analyser.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
